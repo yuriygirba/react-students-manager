@@ -1,0 +1,20 @@
+.Students {
+    margin-left: 20px;
+}
+
+.Students input {
+    margin: 10px;
+}
+
+.Students button {
+    margin-left: 10px;
+}
+
+.AddStudent {
+    width: 350px;
+    padding: 16px;
+    border: 1px solid #eee;
+    box-shadow: 0 2px 3px #ccc;
+    margin: 10px;
+    box-sizing: border-box;
+}

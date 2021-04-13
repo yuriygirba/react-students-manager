@@ -1,0 +1,12 @@
+.App button {
+    background-color: blue;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    height: 30px;
+}
+
+.App button:hover {
+    color: lightsalmon;
+    cursor: pointer;
+}
